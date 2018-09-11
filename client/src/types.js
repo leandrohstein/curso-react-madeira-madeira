@@ -1,0 +1,1 @@
+export const CHANGE_CARNINHA = "CHANGE_CARNINHA";
